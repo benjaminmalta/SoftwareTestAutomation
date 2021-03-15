@@ -8,5 +8,4 @@ INDEX VERSION 1.131+D:\School\SoftwareTestAutomation\.metadata\.plugins\org.ecli
 2130826914.index
 2510872192.index
 332429473.index
-1038379622.index
 987358229.index
