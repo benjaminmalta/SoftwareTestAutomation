@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\School\SoftwareTestAutomation\api-demo"/>
+			<item value="D:\School\SoftwareTestAutomation\scrabble"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,12 +45,26 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="ws5"/>
+			<item value="api-demo"/>
+			<item value="ws4"/>
+			<item value="scrabble"/>
+			<item value="ws3"/>
 			<item value="ws2"/>
 			<item value="ws1"/>
 		</list>
 		<list key="name">
+			<item value="ws5"/>
+			<item value="api-demo"/>
+			<item value="ws4"/>
+			<item value="scrabble"/>
 		</list>
 		<list key="artifactId">
+			<item value="ws5"/>
+			<item value="api-demo"/>
+			<item value="ws4"/>
+			<item value="scrabble"/>
+			<item value="ws3"/>
 			<item value="ws2"/>
 			<item value="ws1"/>
 		</list>

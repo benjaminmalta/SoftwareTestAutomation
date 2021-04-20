@@ -1,0 +1,116 @@
+{
+	"hits": [
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "513fceb375b8dbbc2100000d",
+			"_score": 12.3709955,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 100.08,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "513fceb375b8dbbc2100000c",
+			"_score": 12.214106,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 60.01,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "513fceb375b8dbbc2100000b",
+			"_score": 12.006229,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 476.55,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "54fe2c44ab7c0b1a68eb433c",
+			"_score": 6.07732,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 480,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "551327dd43f0e8463a131e40",
+			"_score": 6.07732,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 100,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "54982f68da5d8d5133d1a47d",
+			"_score": 4.9822273,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 100,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "5bf655be8713a95152081dc2",
+			"_score": 4.421116,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 100,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "5e26afddfc833a895edf78b5",
+			"_score": 4.362796,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 110,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "5b8256949434b1f609a58d9e",
+			"_score": 4.362796,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 80,
+				"nf_serving_size_unit": "serving"
+			}
+		},
+		{
+			"_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+			"_type": "item",
+			"_id": "5538a3a22a3adc085d6546ae",
+			"_score": 4.362796,
+			"fields": {
+				"nf_serving_size_qty": 1,
+				"nf_calories": 100,
+				"nf_serving_size_unit": "serving"
+			}
+		}
+	],
+	"total_hits": 287,
+	"max_score": 12.3709955
+}
